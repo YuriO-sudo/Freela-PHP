@@ -1,4 +1,4 @@
-## **Prerequisites**
+## **Pré - requisitos**
 Certifique-se de ter o PHP instalado em sua máquina.
 
 Abra um editor de texto e copie o código do exemplo correspondente ao que deseja testar (o "x" ou a cruz).
